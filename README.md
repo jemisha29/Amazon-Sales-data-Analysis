@@ -41,5 +41,33 @@ The dataset for this project was organized into Excel data warehouse that store 
 ### Dashboard Link : [https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi]
 
 
-![Screenshot 2024-11-13 101404](https://github.com/user-attachments/assets/79b85d7e-f2aa-4461-95fb-a6a723b9e7b1)
+![all](https://github.com/user-attachments/assets/ef2fdc96-02f2-4568-b8f5-7389fdb0e8ce)
+
+Product Sales Trend Report
+![sales trend](https://github.com/user-attachments/assets/92d3ae17-c5d8-49da-97eb-29ecd0537d36)
+
+## Insights
+These insights are based on data that includes all years. If a specific year is selected, the results will adjust to reflect the data relevant to the selected year.
+
+**Category 1: Focus on Revenue by Region**
+  - Sub-Saharan Africa leads with the highest revenue of 40M, followed by Europe at 33M and Asia at 21M.
+
+**Category 2: Focus on Profit by Item Type**
+  - Cosmetics is the most profitable item type, generating 14.56M in profit
+  - Lower-profit categories include Fruits (0.12M) and Meat (0.61M), indicating potential areas for growth or strategic changes.
+
+**Category 3: About Sales Channels**
+  - Both revenue and profit visuals are segmented by sales channels.
+  - Offline sales account for a larger share of both revenue (57.59%) and profit (56.42%), indicating that offline channels contribute more significantly than online channels.
+
+**Category 4: Map Visualization**
+  - There are a few larger markets in North America and Asia.
+  - The size of the circles indicates the volume of units sold, with larger circles representing higher sales volumes.
+
+**Category f: About Product Sales Trend**
+  - Offline sales contribute significantly more to the total units sold compared to online sales.
+  - Cosmetics and Clothes are the most units sold by item type.
+  - Sub-Saharan Africa and Europe regions have a higher number of high-priority orders compared to other regions.
+
+
 
