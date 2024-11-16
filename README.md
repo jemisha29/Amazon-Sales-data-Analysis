@@ -10,7 +10,7 @@ The dataset for this project was organized into Excel data warehouse that store 
   * **Excel** - Data Cleaning & Data Analysis
   * **PowerBI** - Creating reports
 
-  Power BI Dashboard : [here](https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi)
+  Power BI Dashboard : [here](https://github.com/jemisha29/Amazon-Sales-data-Analysis/blob/main/Amazon%20Sales%20dashboard.pbix)
   
 ## Analysis 
 ### KPI's
@@ -37,4 +37,9 @@ The dataset for this project was organized into Excel data warehouse that store 
   9. Salling units over daily trend?
   10. Visualize order priority by region and order priority.
 
+
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/84dda7c5-5a02-41a6-a33b-70278be6c204/64effd4ec6df62bfc77c?experience=power-bi]
+
+
+![Screenshot 2024-11-13 101404](https://github.com/user-attachments/assets/79b85d7e-f2aa-4461-95fb-a6a723b9e7b1)
 
