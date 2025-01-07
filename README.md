@@ -64,7 +64,7 @@ These insights are based on data that includes all years. If a specific year is 
   - There are a few larger markets in North America and Asia.
   - The size of the circles indicates the volume of units sold, with larger circles representing higher sales volumes.
 
-**Category f: About Product Sales Trend**
+**Category 5: About Product Sales Trend**
   - Offline sales contribute significantly more to the total units sold compared to online sales.
   - Cosmetics and Clothes are the most units sold by item type.
   - Sub-Saharan Africa and Europe regions have a higher number of high-priority orders compared to other regions.
